@@ -1,2 +1,0 @@
-# DockerRepositoryGIT
-Repositorio GitHub
